@@ -1,6 +1,6 @@
 ---
 title: "Ejercicios para practicar"
-author: "Juan Barriola y Sofía Perini"
+author: "Juan Barriola y Sofía Perini "
 date: "28 de agosto de 2021"
 output:
   html_notebook:
